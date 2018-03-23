@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "question": "What is your favorite color?"
+  },
+  {
+    "id": 2,
+    "question": "What is your favorite animal?"
+  },
+  {
+    "id": 3,
+    "question": "Where are you most likey to be found?"
+  },
+  {
+    "id": 4,
+    "question": "What is your best quality"
+  }
+]

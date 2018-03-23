@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "questionId": 1,
+    "answer": "red"
+  },
+  {
+    "id": 2,
+    "questionId": 1,
+    "answer": "green"
+  },
+  {
+    "id": 3,
+    "questionId": 1,
+    "answer": "yellow"
+  },
+  {
+    "id": 4,
+    "questionId": 1,
+    "answer": "blue"
+  },
+  {
+    "id": 5,
+    "questionId": 2,
+    "answer": "Lion"
+  },
+  {
+    "id": 6,
+    "questionId": 2,
+    "answer": "Snake"
+  },
+  {
+    "id": 7,
+    "questionId": 2,
+    "answer": "Badger"
+  },
+  {
+    "id": 8,
+    "questionId": 2,
+    "answer": "Eagle"
+  },
+  {
+    "id": 10,
+    "questionId": 3,
+    "answer": "The Forbidden Forrest"
+  },
+  {
+    "id": 11,
+    "questionId": 3,
+    "answer": "The Dungeon"
+  },
+  {
+    "id": 12,
+    "questionId": 3,
+    "answer": "The Kitchen"
+  },
+  {
+    "id": 13,
+    "questionId": 3,
+    "answer": "The Library"
+  },
+  {
+    "id": 14,
+    "questionId": 4,
+    "answer": "Courage"
+  },
+  {
+    "id": 15,
+    "questionId": 4,
+    "answer": "Cunning"
+  },
+  {
+    "id": 16,
+    "questionId": 4,
+    "answer": "Loyalty"
+  },
+  {
+    "id": 1,
+    "questionId": 4,
+    "answer": "Wisdom"
+  }
+]
